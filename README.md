@@ -40,12 +40,9 @@
 
 ---
 
-## 🏗️ Architecture Overview
+🏗️ Architecture Overview
 
 !![Architecture Diagram](assets/graph_image.png)
-<div align="center">
-<img src="assets/graph_image.png">
-</div>
 
 * **Gemini LLM:** Understands and plans answers from conversational queries.
 * **CSV-backed Tools:** Deterministic Python functions provide reliable information from campus datasets.
