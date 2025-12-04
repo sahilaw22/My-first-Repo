@@ -1,6 +1,6 @@
 <div align="center">
 
- <strong>ACADEMATE: Intelligent College AI Agent</strong>
+# <strong>ACADEMATE: Intelligent College AI Agent</strong>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=github&logoColor=white)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -40,9 +40,9 @@
 
 ---
 
-🏗️ Architecture Overview
+# 🏗️ Architecture Overview
 
-!![Architecture Diagram](assets/graph_image.png)
+![Architecture Diagram](assets/graph_image.png)
 
 * **Gemini LLM:** Understands and plans answers from conversational queries.
 * **CSV-backed Tools:** Deterministic Python functions provide reliable information from campus datasets.
@@ -56,20 +56,20 @@
 
 <div align="center">
 
-- **Languages:**  
+ **Languages:**  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
 
-- **AI Model:**  
+ **AI Model:**  
   ![Google Gemini 2.5 Flash Lite](https://img.shields.io/badge/Gemini-2.5_Flash_Lite-blue?style=for-the-badge)
 
-- **Framework:**  
+ **Framework:**  
   ![Google_ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge)
 
-- **Data:**  
+ **Data:**  
   ![CSV](https://img.shields.io/badge/CSV-FFD700?style=for-the-badge)
 
-- **Quality & DevOps:**  
+ **Quality & DevOps:**  
   ![Session Memory](https://img.shields.io/badge/Session_Memory-6A1B9A?style=for-the-badge)
   ![Structured Logs](https://img.shields.io/badge/Structured_Logs-00897B?style=for-the-badge)
   ![CI](https://img.shields.io/badge/CI-212121?style=for-the-badge)
