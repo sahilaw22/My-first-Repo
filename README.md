@@ -1,6 +1,6 @@
 <div align="center">
 
-# <strong>ACADEMATE: Intelligent College AI Agent</strong>
+ <strong>ACADEMATE: Intelligent College AI Agent</strong>
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&logo=github&logoColor=white)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
